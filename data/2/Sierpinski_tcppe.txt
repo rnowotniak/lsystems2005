@@ -1,0 +1,10 @@
+axiom = I
+angle = 90
+baseAngle = 0
+start = 0,0
+name = Sierpinski_tæppe
+level = 5
+scale = 0.2
+
+I = F+F+F+F
+F = FF+F+F+F+FF

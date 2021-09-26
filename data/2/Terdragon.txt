@@ -1,0 +1,10 @@
+axiom = I
+angle = 120
+baseAngle = 0
+start = 0,0
+name = Terdragon
+level = 7
+scale = 0.04
+
+I = F
+F = F+F-F

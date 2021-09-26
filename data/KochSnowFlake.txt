@@ -1,0 +1,9 @@
+axiom = F
+angle = -60
+level = 5
+length = 500
+baseAngle = 90
+start = 315,165
+name = Krzywa Kocha
+scale = 0.025
+F = F+>F--F<+F

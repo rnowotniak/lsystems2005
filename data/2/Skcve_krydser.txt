@@ -1,0 +1,11 @@
+axiom = I
+angle = 60
+baseAngle = 0
+start = 0,0
+name = Skæve_krydser
+level = 5
+scale = 0.04
+
+I = X
+X = FY[+FY][--FY]FY
+Y = FX[++FX][-FX]FX

@@ -1,0 +1,11 @@
+axiom = I
+angle = 90
+baseAngle = 0
+start = 0,0
+name = Øer
+level = 2
+scale = 0.04
+
+I = F+F+F+F
+F = F+f-FF+F+FF+Ff+FF-f+FF-F-FF-Ff-FFF
+f = f f f f f f

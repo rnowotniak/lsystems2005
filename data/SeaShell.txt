@@ -1,0 +1,13 @@
+axiom = A
+angle = 10
+baseAngle = 0
+start = 143,249
+level = 13
+scale = 0.152
+name = Muszla morska
+factor = 1.047
+D = *+C
+A = EA
+C = [BBBB]
+B = F+
+E = C>DDDDD

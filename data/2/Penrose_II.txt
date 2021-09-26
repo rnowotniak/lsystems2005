@@ -1,0 +1,14 @@
+axiom = I
+angle = 36
+baseAngle = 0
+start = 0,0
+name = Penrose_II
+level = 4
+scale = 0.0133333333333333
+
+I = [Y]++[Y]++[Y]++[Y]++[Y]
+F = 
+W = YF++ZF----XF[-YF----WF]++
+X = +YF--ZF[---WF--XF]+
+Y = -WF++XF[+++YF++ZF]-
+Z = --YF++++WF[+ZF++++XF]--XF

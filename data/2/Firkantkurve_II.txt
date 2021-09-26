@@ -1,0 +1,11 @@
+axiom = I
+angle = 45
+baseAngle = 0
+start = 0,0
+name = Firkantkurve_II
+level = 8
+scale = 0.04
+
+I = L--F--L--F
+R = -L+F+L-
+L = +R-F-R+

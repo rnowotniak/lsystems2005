@@ -1,0 +1,12 @@
+axiom = I
+angle = 88
+baseAngle = 0
+start = 0,0
+name = Moore_II
+level = 6
+scale = 0.2
+
+I = +FUFUFU--FDFDFD++FUFUFU
+F = FF
+D = D++FU--FD
+U = U--FD++FU

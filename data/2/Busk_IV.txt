@@ -1,0 +1,10 @@
+axiom = I
+angle = 24
+baseAngle = 0
+start = 0,0
+name = Busk_IV
+level = 4
+scale = 0.02
+
+I = +++fF
+F = fF+[+F-F-F]-[-fF+F+F]

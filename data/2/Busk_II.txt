@@ -1,0 +1,11 @@
+axiom = I
+angle = 12.8571428571429
+baseAngle = 0
+start = 0,0
+name = Busk_II
+level = 8
+scale = 0.25
+
+I = +++++++G
+X = X[--FFF][++FFF]FX
+G = GFX[++G][--G]

@@ -1,0 +1,12 @@
+axiom = I
+angle = 15
+baseAngle = 0
+start = 0,0
+name = Spiral-I
+level = 5
+scale = 0.0333333333333333
+
+I = AAAA
+A = X+X+X+X+X+X+
+X = [F+F+F+F[---X-Y]+++++F++++++++F-F-F-F]
+Y = [F+F+F+F[---Y]+++++F++++++++F-F-F-F]

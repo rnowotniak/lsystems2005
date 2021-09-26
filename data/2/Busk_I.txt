@@ -1,0 +1,14 @@
+axiom = I
+angle = 18
+baseAngle = 0
+start = 0,0
+name = Busk_I
+level = 11
+scale = 0.0333333333333333
+
+I = +++++SLFFF
+H = -G[+H]L
+S = [+++G][---G]TS
+T = TL
+G = +H[-G]L
+L = [-FFF][+FFF]F

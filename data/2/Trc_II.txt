@@ -1,0 +1,11 @@
+axiom = I
+angle = -10
+baseAngle = 0
+start = 0,0
+name = Træ_II
+level = 7
+scale = 0.2
+
+I = ---------X
+F = FF
+X = F[++X]F[--X]++X

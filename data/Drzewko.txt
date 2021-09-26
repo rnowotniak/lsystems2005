@@ -1,0 +1,9 @@
+axiom = f
+angle = 45
+baseAngle = 0
+start = 7,12
+level = 10
+factor = 0.6
+scale = 2.56
+name = Drzewko
+f = >F(>-f<)(+f)

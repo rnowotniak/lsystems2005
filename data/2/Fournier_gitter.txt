@@ -1,0 +1,10 @@
+axiom = I
+angle = 90
+baseAngle = 0
+start = 0,0
+name = Fournier_gitter
+level = 4
+scale = 0.0666666666666667
+
+I = FP+FP+FP+FP
+P = P+FP-FP-FP+FP

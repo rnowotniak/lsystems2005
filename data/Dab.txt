@@ -1,0 +1,10 @@
+axiom = A
+angle = 45
+baseAngle = -90
+start = -47,56
+level = 10
+factor = 0.707
+scale = 0.9
+name = D\u0105b
+A = zF++F++G++F
+G = [---(F++G++F++F)<]F[---(F++F++G++F)]>

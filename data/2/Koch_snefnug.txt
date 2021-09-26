@@ -1,0 +1,10 @@
+axiom = I
+angle = 60
+baseAngle = 0
+start = 0,0
+name = Koch_snefnug
+level = 5
+scale = 0.2
+
+I = F++F++F
+F = F-F++F-F

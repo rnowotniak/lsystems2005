@@ -1,0 +1,11 @@
+axiom = Y
+angle = 25
+level = 6
+length = 10
+baseAngle = 0
+start = 0,-63
+scale = 0.05
+name = Ro\u015Blinka 4
+Y = YFX[+Y][-Y]
+X = X[-FFF][+FFF]FX
+

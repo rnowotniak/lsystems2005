@@ -1,0 +1,10 @@
+axiom = I
+angle = 60
+baseAngle = 0
+start = 0,0
+name = Stablede_terninger
+level = 6
+scale = 0.02
+
+I = F
+F = -F+F+[+F+F]-

@@ -1,0 +1,14 @@
+axiom = I
+angle = 90
+baseAngle = 0
+start = 0,0
+name = Dekkings_kirke
+level = 7
+scale = 0.0666666666666667
+
+I = WZYX
+F = 
+W = FW+F-XFW-F+Z
+X = ++F--Y-F+Z++F--Y-F+Z
+Y = ++F--Y+F-X
+Z = FW+F-X

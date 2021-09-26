@@ -1,0 +1,11 @@
+axiom = A
+angle = -90
+baseAngle = 0
+start = 155,95
+level = 9
+scale = 0.0035
+name = Snefnug 1
+A = O->>O-O<<-O
+O = FOF>+GPG+<+>GPG<+FOF
+P = O
+G = GF

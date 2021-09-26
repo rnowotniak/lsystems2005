@@ -1,0 +1,11 @@
+axiom = I
+angle = 90
+baseAngle = 0
+start = 0,0
+name = H
+level = 4
+scale = 0.02
+
+I = +H
+F = FF
+H = +F+FH++FFH++F+FF+FH++FFH++F+F-

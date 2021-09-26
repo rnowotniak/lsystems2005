@@ -1,0 +1,10 @@
+axiom = I
+angle = 90
+baseAngle = 0
+start = 0,0
+name = Peano_kurve
+level = 3
+scale = 0.025
+
+I = F
+F = F+F-F-F-F+F+F+F-F

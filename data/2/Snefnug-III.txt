@@ -1,0 +1,11 @@
+axiom = I
+angle = -90
+baseAngle = 0
+start = 0,0
+name = Snefnug-III
+level = 12
+scale = 0.5
+
+I = H+H+H+H
+K = FH-FH++FH-FH
+H = FFKFF

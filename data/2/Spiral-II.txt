@@ -1,0 +1,10 @@
+axiom = I
+angle = 20
+baseAngle = 0
+start = 0,0
+name = Spiral-II
+level = 18
+scale = 0.0133333333333333
+
+I = A
+A = [-A]F+F+F+F+F+F+F+F+F+F+F+F+F+F+F+F+F+F+F

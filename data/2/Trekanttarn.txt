@@ -1,0 +1,10 @@
+axiom = I
+angle = 120
+baseAngle = 0
+start = 0,0
+name = Trekanttårn
+level = 6
+scale = 0.02
+
+I = fX
+X = --FXF++FXF++FXF--

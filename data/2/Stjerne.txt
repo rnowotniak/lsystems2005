@@ -1,0 +1,11 @@
+axiom = I
+angle = 72
+baseAngle = 0
+start = 0,0
+name = Stjerne
+level = 7
+scale = 0.05
+
+I = X
+F = F--X--F
+X = F++F++F++F++F

@@ -1,0 +1,11 @@
+axiom = I
+angle = 30
+baseAngle = 0
+start = 0,0
+name = Træ_IV
+level = 8
+scale = 0.333333333333333
+
+I = +++A
+F = FF
+A = F[+A][-A]FA

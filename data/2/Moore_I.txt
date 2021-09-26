@@ -1,0 +1,12 @@
+axiom = I
+angle = 90
+baseAngle = 0
+start = 0,0
+name = Moore_I
+level = 4
+scale = 0.1
+
+I = X
+F = 
+X = FX+FX+FXFYFX+FXFY-FY-FY-
+Y = +FX+FX+FXFY-FYFXFY-FY-FY

@@ -1,0 +1,10 @@
+axiom = I
+angle = -90
+baseAngle = 0
+start = 0,0
+name = Trappe
+level = 4
+scale = 0.05
+
+I = F
+F = F-F+F+F-F

@@ -1,0 +1,10 @@
+axiom = I
+angle = 12.8571428571429
+baseAngle = 0
+start = 0,0
+name = Busk_III
+level = 5
+scale = 0.1
+
+I = +++++++F
+F = F[++F]F[--F]F

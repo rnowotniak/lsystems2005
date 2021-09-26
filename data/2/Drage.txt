@@ -1,0 +1,11 @@
+axiom = I
+angle = 90
+baseAngle = 0
+start = 0,0
+name = Drage
+level = 11
+scale = 0.0666666666666667
+
+I = F+XF+F+XF
+X = X+YF+
+Y = -FX-Y

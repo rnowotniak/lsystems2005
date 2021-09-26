@@ -1,0 +1,10 @@
+axiom = I
+angle = 72
+baseAngle = 0
+start = 0,0
+name = Pentl
+level = 4
+scale = 0.1
+
+I = F-F-F-F-F
+F = F-F-F++F+F-F

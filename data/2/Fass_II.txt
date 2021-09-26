@@ -1,0 +1,11 @@
+axiom = I
+angle = 90
+baseAngle = 0
+start = 0,0
+name = Fass_II
+level = 3
+scale = 0.05
+
+I = -L
+R = -LFLFLF+RFR+FL-F-LF+RFR+FLF+RFRF-LFL-FRFR
+L = LFLF+RFR+FLFL-FRF-LFL-FR+F+RF-LFL-FRFRFR+

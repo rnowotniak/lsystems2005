@@ -1,0 +1,11 @@
+axiom =X
+length = 200
+angle = 22
+baseAngle = 0
+start = 0,0
+level = 5
+scale = 0.065
+name = Ro\u015Blinka 3
+X = >F<-[[X]+X]+<F>[+FX]->>X<<
+F = FF
+

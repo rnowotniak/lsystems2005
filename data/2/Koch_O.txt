@@ -1,0 +1,10 @@
+axiom = I
+angle = 90
+baseAngle = 0
+start = 0,0
+name = Koch_Ø
+level = 3
+scale = 0.0666666666666667
+
+I = F+F+F+F
+F = F-F+F+FFF-F-F+F

@@ -1,0 +1,11 @@
+axiom = I
+angle = 30
+baseAngle = 0
+start = 0,0
+name = Piletræ
+level = 7
+scale = 0.2
+
+I = +++FP
+F = FF
+P = F[+++++FP][-----FP]

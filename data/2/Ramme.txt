@@ -1,0 +1,12 @@
+axiom = I
+angle = 90
+baseAngle = 0
+start = 0,0
+name = Ramme
+level = 3
+scale = 0.1
+
+I = XYXYXYX+XYXYXYX+XYXYXYX+XYXYXYX
+F = 
+X = FX+FX+FXFY-FY-
+Y = +FX+FXFY-FY-FY

@@ -1,0 +1,11 @@
+axiom = I
+angle = 60
+baseAngle = 0
+start = 0,0
+name = Peano-Gosper_kurve
+level = 4
+scale = 0.05
+
+I = FX
+X = X+YF++YF-FX--FXFX-YF+
+Y = -FX+YFYF++YF+FX--FX-Y

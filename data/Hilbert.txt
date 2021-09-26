@@ -1,0 +1,10 @@
+axiom = X
+angle = 90
+scale = 0.03
+level = 7
+length = 10
+baseAngle = 0
+start = -183,13
+name = Krzywa Hilberta
+X = -YF+XFX+FY-
+Y = +XF->YFY<-FX+

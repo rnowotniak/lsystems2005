@@ -1,0 +1,16 @@
+axiom = I
+angle = 36
+baseAngle = 0
+start = 0,0
+name = Pentive
+level = 6
+scale = 0.02
+
+I = Q
+S = FU--FP++++FQ--
+F = 
+T = +FU--FP+
+P = --FR++++FS--FU
+Q = FT++FR----FS++
+R = ++FP----FQ++FT
+U = -FQ++FT-

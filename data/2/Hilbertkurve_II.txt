@@ -1,0 +1,11 @@
+axiom = I
+angle = 90
+baseAngle = 0
+start = 0,0
+name = Hilbertkurve_II
+level = 4
+scale = 0.0666666666666667
+
+I = X
+X = XFYFX+F+YFXFY-F-XFYFX
+Y = YFXFY-F-XFYFX+F+YFXFY

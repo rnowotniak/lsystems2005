@@ -1,0 +1,11 @@
+axiom = X
+angle = 90
+level = 4
+length = 60
+scale = 0.065
+baseAngle = 0
+start = 253,-33
+name = Krzywa Peano
+X = XF>YFX+F+>YFXFY<-F-XFY<FX
+Y = YFXFY-F-XFYFX+F+YFXFY
+

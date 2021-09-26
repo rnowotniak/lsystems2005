@@ -1,0 +1,12 @@
+axiom = I
+angle = -90
+baseAngle = 0
+start = 0,0
+name = Snefnug-I
+level = 8
+scale = 1
+
+I = O-O-O-O
+O = FOF+GPG++GPG+FOF
+P = O
+G = GF

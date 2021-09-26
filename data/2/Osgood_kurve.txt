@@ -1,0 +1,11 @@
+axiom = I
+angle = 90
+baseAngle = 0
+start = 0,0
+name = Osgood_kurve
+level = 3
+scale = 0.04
+
+I = -FX+YF
+X = X+YFFFX+YF-F-FX+YF-F-FX+YF-F-FX+YFFFX+YFFFX
+Y = YFFFX+YF-F-FX+Y

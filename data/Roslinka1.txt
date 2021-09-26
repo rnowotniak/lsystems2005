@@ -1,0 +1,10 @@
+axiom = F
+angle = 22
+baseAngle = 0
+start = 0,0
+level = 4
+scale = 0.06
+name = Ro\u015Blinka 1
+F = F<[+F]>F[->F<]F
+f = fff
+

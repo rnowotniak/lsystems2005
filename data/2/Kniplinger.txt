@@ -1,0 +1,13 @@
+axiom = I
+angle = 30
+baseAngle = 0
+start = 0,0
+name = Kniplinger
+level = 6
+scale = 0.04
+
+I = w
+w = +++x--F--zFx+
+x = ---w++F++yFw-
+y = +zFx--F--z+++
+z = -yFw++F++y---

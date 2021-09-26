@@ -1,0 +1,10 @@
+axiom = I
+angle = 90
+baseAngle = 0
+start = 0,0
+name = 32_segments_kurve
+level = 2
+scale = 0.1
+
+I = F+F+F+F
+F = -F+F-F-F+F+FF-F+F+FF+F-F-FF+FF-FF+F+F-FF-F-F+FF-F-F+F+F-F+

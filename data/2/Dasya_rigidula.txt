@@ -1,0 +1,23 @@
+axiom = I
+angle = 22.5
+baseAngle = 0
+start = 0,0
+name = Dasya_rigidula
+level = 9
+scale = 0.04
+
+I = ++++A
+A = U[---P]a
+W = f[---F++++++F]F
+a = U[-P]B
+X = FFFF
+P = WV[-C][+C]
+Y = X
+E = VV[-G][+G]
+B = U[+++P]b
+V = fFF
+b = U[+P]A
+C = V[-D][+D]
+D = V[-E][+E]
+G = V-VV
+U = f[---f+++X][+++f---Y]FFFFF

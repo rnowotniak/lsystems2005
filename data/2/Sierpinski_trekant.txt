@@ -1,0 +1,11 @@
+axiom = I
+angle = 60
+baseAngle = 0
+start = 0,0
+name = Sierpinski_trekant
+level = 6
+scale = 0.1
+
+I = FXF--FF--FF
+F = FF
+X = --FXF++FXF++FXF--
